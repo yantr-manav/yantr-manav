@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="700" height = "300"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,mongodb,aws,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,mongodb,figma,aws,git,github,docker,linux" />
 </p>
 
 ---
