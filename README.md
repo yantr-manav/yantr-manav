@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="500"/>
 </p>
 
 ---
@@ -30,13 +30,7 @@
 
 ---
 
-## 🏆 GitHub Trophy Case
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yantr-manav&theme=gruvbox&row=1&column=6" />
-</p>
-
----
 
 ## 📊 Most Used Languages
 
