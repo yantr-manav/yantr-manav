@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" />
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/A_digital_painting_showcases_a_young_coder_sitting.png" alt="yantr-manav banner" width="800"/>
 </p>
 
 ---
@@ -30,10 +30,10 @@
 
 ---
 
-## 🔥 GitHub Heatmap
+## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=tokyonight&fire=DD2727&sideNums=39FF14" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yantr-manav&theme=gruvbox&row=1&column=6" />
 </p>
 
 ---
