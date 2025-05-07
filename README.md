@@ -37,7 +37,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,mongodb,figma,aws,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,tailwindcss,react,mongodb,figma,aws,git,github,docker,linux" />
 </p>
 
 ---
