@@ -75,6 +75,12 @@ Fight with keyboards,
 And debug reality.”*
 
 ---
+## Contribution Graph
+<p align="center">
+  <a href="https://github.com/yantr-manav">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yantr-manav&theme=react&hide_border=true&area=true&color=00ff00" alt="GitHub Contribution Graph" />
+  </a>
+</p>
 
 <p align="center">
   🧠 **#yantr-manav** — Let’s Build Something That Lasts.
