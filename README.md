@@ -7,10 +7,10 @@
 <h1 align="center">🧠 yantr-manav — Code. Conquer. Repeat.</h1>
 
 <p align="center">
-    <a href="https://github.com/yantr-manav">
+  <a href="https://github.com/yantr-manav">
     <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
   </a>
-    &nbsp;
+  &nbsp;
   <a href="https://github.com/yantr-manav?tab=followers">
     <img src="https://img.shields.io/github/followers/yantr-manav?label=Follow&style=social" alt="GitHub Followers" />
   </a>
@@ -33,63 +33,58 @@
 
 ---
 
-
-
-
-
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,mongodb,aws,git,github,docker,linux" />
 </p>
 
-
 ---
 
+## 🧩  Github Stats 
 
-## 📊 Most Used Languages
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
- <p >
-   <img 
+<div align="center" style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" 
     style="width: 400px;" 
     alt="Top Languages"
   />
-
   <img 
     src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
-    style="width: 460px;" 
+    style="width: 400px;" 
     alt="GitHub Stats"
   />
-  </p>
 </div>
 
 ---
-<p align = " center">
+
+## 🔥 Code Consistency Streak
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-
-
 ---
 
-## 🚀 Motto of My Journey
+## 🧠 Contribution Graph
 
-> *“Not every hero wears a cape,  
-Some wear headphones,  
-Fight with keyboards,  
-And debug reality.”*
-
----
-## Contribution Graph
 <p align="center">
   <a href="https://github.com/yantr-manav">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yantr-manav&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
   </a>
 </p>
 
-<p align="center">
-  🧠 **#yantr-manav** — Let’s Build Something That Lasts.
-</p>
+---
+
+## 🚀 Motto of My Journey
+
+> *“Not every hero wears a cape,  
+> Some wear headphones,  
+> Fight with keyboards,  
+> And debug reality.”*
+
+---
+
+
