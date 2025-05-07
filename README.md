@@ -42,22 +42,35 @@
 
 ---
 
-## 🧩  Github Stats 
+<!-- 🧩 Github Stats -->
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" 
-    style="width: 400px;" 
-    alt="Top Languages"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
-    style="width: 400px;" 
-    alt="GitHub Stats"
-  />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=6" 
+          width="500" 
+          height="250" 
+          alt="Top Languages"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
+          width="500" 
+          height="250" 
+          alt="GitHub Stats"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+
+
+
+
 
 ## 🔥 Code Consistency Streak
 
