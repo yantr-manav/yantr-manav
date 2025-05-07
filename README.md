@@ -1,10 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="500"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/gitub_banner.png" alt="yantr-manav banner" width="800"/>
 </p>
 
 ---
 
 <h1 align="center">🧠 yantr-manav — Code. Conquer. Repeat.</h1>
+
+<p align="center">
+  <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
+  <i>Welcome to my world where code meets grit, and bugs fear persistence.</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m **Saivamshi Jilla** — an engineer who believes in the **power of transformation through code.**
+- 💡 Currently working on projects that blend ML, AI, and raw determination.
+- 🎯 Focused on building real-world systems that **solve**, **scale**, and **inspire**.
+- 🧠 Always learning. Always building. Always leveling up.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saivamshi-jilla/) | 📬 saivamshijilla04@gmail.com
+
 ---
 
 ## 🌍 GitHub Pulse
@@ -19,23 +35,17 @@
   </a>
 </p>
 
+---
+
+## 🔥 Code Consistency Streak
 
 <p align="center">
-  <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
-  <i>Welcome to my world where code meets grit, and bugs fear persistence.</i>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
-
-## 👨‍💻 About Me
-- 🔭 I’m **Saivamshi Jilla** — an engineer who believes in the **power of transformation through code.**
-- 💡 Currently working on projects that blend ML, AI, and raw determination.
-- 🎯 Focused on building real-world systems that **solve**, **scale**, and **inspire**.
-- 🧠 Always learning. Always building. Always leveling up.
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saivamshi-jilla/) | 📬 saivamshijilla04@gmail.com
-
----
-
 
 ## ⚙️ Tech Stack & Tools
 
@@ -46,7 +56,6 @@
 ---
 
 
-
 ## 📊 Most Used Languages
 
 <p align="center">
@@ -54,9 +63,7 @@
 </p>
 
 ---
-## Github Streak 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 ## ⚔️ Mission Stats
 
 <p align="center">
@@ -64,15 +71,6 @@
 </p>
 
 ---
-
----
-
-## 🔥 Code Consistency Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yantr-manav&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 
 ## 🚀 Motto of My Journey
 
