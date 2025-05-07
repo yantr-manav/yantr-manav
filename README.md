@@ -53,15 +53,12 @@
 </p>
 
 ---
-## 🔥 Code Consistency Streak
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
----
 ## ⚔️ Mission Stats
 
 <p align="center">
