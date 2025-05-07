@@ -48,19 +48,19 @@
 
 
 ## 📊 Most Used Languages
-<div align="center">
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" 
-      width="400px" 
-      alt="Top Languages"
-    />
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
-      width="460px" 
-      alt="GitHub Stats"
-    />
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+ <p >
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" 
+    style="width: 400px;" 
+    alt="Top Languages"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
+    style="width: 460px;" 
+    alt="GitHub Stats"
+  />
   </p>
 </div>
 
