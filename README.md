@@ -33,6 +33,7 @@
 
 ---
 
+
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
@@ -86,5 +87,8 @@
 > And debug reality.”*
 
 ---
+---
+
+
 
 
