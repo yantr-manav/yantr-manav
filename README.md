@@ -5,6 +5,20 @@
 ---
 
 <h1 align="center">🧠 yantr-manav — Code. Conquer. Repeat.</h1>
+---
+
+## 🌍 GitHub Pulse
+
+<p align="center">
+  <a href="https://github.com/yantr-manav?tab=followers">
+    <img src="https://img.shields.io/github/followers/yantr-manav?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/yantr-manav">
+    <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
 
 <p align="center">
   <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
@@ -21,6 +35,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saivamshi-jilla/) | 📬 saivamshijilla04@gmail.com
 
 ---
+
 
 ## ⚙️ Tech Stack & Tools
 
@@ -39,7 +54,9 @@
 </p>
 
 ---
+## Github Streak 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 ## ⚔️ Mission Stats
 
 <p align="center">
@@ -47,6 +64,15 @@
 </p>
 
 ---
+
+---
+
+## 🔥 Code Consistency Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yantr-manav&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 ## 🚀 Motto of My Journey
 
