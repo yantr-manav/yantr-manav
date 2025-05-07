@@ -50,10 +50,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yantr-manav/" target="blank">
+  <a href="https://www.linkedin.com/in/saivamshi-jilla/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:saivamshijilla04@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
