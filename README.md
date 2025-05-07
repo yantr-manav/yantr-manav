@@ -1,10 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="400"/>
 </p>
 
 ---
 
 <h1 align="center">🧠 yantr-manav — Code. Conquer. Repeat.</h1>
+---
+<p align="center">
+    <a href="https://github.com/yantr-manav">
+    <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
+    &nbsp;
+  <a href="https://github.com/yantr-manav?tab=followers">
+    <img src="https://img.shields.io/github/followers/yantr-manav?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 <p align="center">
   <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
@@ -23,19 +33,7 @@
 
 ---
 
-## 🌍 GitHub Pulse
 
-<p align="center">
-  <a href="https://github.com/yantr-manav?tab=followers">
-    <img src="https://img.shields.io/github/followers/yantr-manav?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/yantr-manav">
-    <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
----
 
 ## 🔥 Code Consistency Streak
 
