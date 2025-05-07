@@ -78,7 +78,7 @@ And debug reality.”*
 ## Contribution Graph
 <p align="center">
   <a href="https://github.com/yantr-manav">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yantr-manav&theme=react&hide_border=true&area=true&color=00ff00" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yantr-manav&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
   </a>
 </p>
 
