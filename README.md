@@ -1,77 +1,68 @@
-<!-- README for GitHub profile: yantr-manav -->
-
-<h1 align="center">Hi 👋, I'm Yantr Manav</h1>
-<h3 align="center">⚙️ Tech Enthusiast | 👨‍💻 Developer | 🤖 AI Explorer</h3>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **cutting-edge AI and automation projects**
-- 🌱 I’m currently learning **Rust, Web3, and Quantum Machine Learning**
-- 💬 Ask me about **Python, Machine Learning, Automation, or DevOps**
-- ⚡ Fun fact: *"Yantr Manav" means Mechanical Human 🤖*
-
----
-
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/A_digital_painting_showcases_a_young_coder_sitting.png" alt="yantr-manav banner" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h1 align="center">🧠 yantr-manav — Code. Conquer. Repeat.</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
+  <i>Welcome to my world where code meets grit, and bugs fear persistence.</i>
 </p>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m **Saivamshi Jilla** — an engineer who believes in the **power of transformation through code.**
+- 💡 Currently working on projects that blend ML, AI, and raw determination.
+- 🎯 Focused on building real-world systems that **solve**, **scale**, and **inspire**.
+- 🧠 Always learning. Always building. Always leveling up.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saivamshi-jilla/) | 📬 saivamshijilla04@gmail.com
+
+---
+
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,aws,git,github,docker,firebase,linux,bash" />
 </p>
+
+---
+
+## 🔥 GitHub Heatmap
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=tokyonight&fire=DD2727&sideNums=39FF14" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left" gap = "4">
-  <a href="https://www.linkedin.com/in/saivamshi-jilla/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:saivamshijilla04@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
-
----
-
-### 💡 Quote of the Day
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-### 👁️ Visitor Count
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile%20views&color=0e75b6&style=flat" alt="yantr-manav" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
 
-⭐️ Don't forget to **follow** and **star** interesting repositories!  
+## ⚔️ Mission Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" />
+</p>
+
+---
+
+## 🚀 Motto of My Journey
+
+> *“Not every hero wears a cape,  
+Some wear headphones,  
+Fight with keyboards,  
+And debug reality.”*
+
+---
+
+<p align="center">
+  🧠 **#yantr-manav** — Let’s Build Something That Lasts.
+</p>
