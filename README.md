@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="400"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="600"/>
 </p>
 
 ---
@@ -43,27 +43,35 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,mongodb,aws,git,github,docker,linux" />
 </p>
 
+
 ---
 
 
 ## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" />
-</p>
+<div align="center">
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=8" 
+      width="400px" 
+      alt="Top Languages"
+    />
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
+      width="460px" 
+      alt="GitHub Stats"
+    />
+  </p>
+</div>
 
 ---
-<p align="center">
+<p align = " center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=yantr-manav&theme=neon-dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-## ⚔️ Mission Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" />
-</p>
 
 ---
 
