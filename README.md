@@ -56,12 +56,7 @@
         />
       </td>
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical&rank_icon=github" 
-          width="500" 
-          height="250" 
-          alt="GitHub Stats"
-        />
+        <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" width="400"> 
       </td>
     </tr>
   </table>
