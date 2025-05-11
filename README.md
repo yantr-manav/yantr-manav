@@ -42,7 +42,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=vision-friendly-dark&lang_count=10" alt="Top Languages" />
+
 
 <!-- 🧩 Github Stats -->
 
@@ -51,7 +51,7 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajiha-Kulsum&layout=compact&theme=radical&langs_count=8" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yantr-manav&layout=compact&theme=radical&langs_count=6" 
           width="500" 
           height="250" 
           alt="Top Languages"
