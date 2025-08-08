@@ -67,7 +67,7 @@
 
 
 ---
-<p align = " center" >[![GitHub Streak](https://streak-stats.demolab.com/?user=yantr-manav)](https://git.io/streak-stats)  </p>
+<p align = " center" ><img src = "[![GitHub Streak](https://streak-stats.demolab.com/?user=yantr-manav)](https://git.io/streak-stats)">  </p>
 
 
 
