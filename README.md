@@ -67,7 +67,7 @@
 
 
 ---
-<p align = " center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=radical" width="600"> </p>
+<p align = " center" > <img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=radical" width="400">  </p>
 
 
 
