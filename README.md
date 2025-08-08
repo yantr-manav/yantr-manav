@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="700" height = "300"/>
+  <img src="https://raw.githubusercontent.com/yantr-manav/yantr-manav/main/github_banner.png" alt="yantr-manav banner" width="700" height="300" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br>
+  <i>"Crafted from willpower, fueled by coffee, surviving on logic."</i><br />
   <i>Welcome to my world where code meets grit, and bugs fear persistence.</i>
 </p>
 
@@ -33,7 +33,6 @@
 
 ---
 
-
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
@@ -41,7 +40,6 @@
 </p>
 
 ---
-
 
 <!-- 🧩 Github Stats -->
 
@@ -57,19 +55,17 @@
         />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" width="400"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" width="400" alt="GitHub Stats" /> 
       </td>
     </tr>
   </table>
 </div>
 
-
-
-
 ---
-<p align = " center" ><img src = "[![GitHub Streak](https://streak-stats.demolab.com/?user=yantr-manav)](https://git.io/streak-stats)">  </p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yantr-manav&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
@@ -91,8 +87,3 @@
 > And debug reality.”*
 
 ---
----
-
-
-
-
