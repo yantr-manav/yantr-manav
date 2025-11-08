@@ -10,7 +10,6 @@
   <a href="https://github.com/yantr-manav">
     <img src="https://komarev.com/ghpvc/?username=yantr-manav&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
   </a>
-  &nbsp;
   <a href="https://github.com/yantr-manav?tab=followers">
     <img src="https://img.shields.io/github/followers/yantr-manav?label=Follow&style=social" alt="GitHub Followers" />
   </a>
@@ -41,8 +40,6 @@
 
 ---
 
-<!-- 🧩 Github Stats -->
-
 <div align="center">
   <table>
     <tr>
@@ -55,7 +52,11 @@
         />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" width="400" alt="GitHub Stats" /> 
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=yantr-manav&show_icons=true&theme=radical" 
+          width="400" 
+          alt="GitHub Stats" 
+        />
       </td>
     </tr>
   </table>
@@ -81,9 +82,9 @@
 
 ## 🚀 Motto of My Journey
 
-> *“Not every hero wears a cape,  
+> “Not every hero wears a cape,  
 > Some wear headphones,  
 > Fight with keyboards,  
-> And debug reality.”*
+> And debug reality.”
 
 ---
